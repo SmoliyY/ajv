@@ -1,0 +1,5 @@
+reunite:
+  ignoreLint: true
+  ignoreLinkChecker: true
+  ignoreMarkdocErrors: true
+  ignoreRespectMonitoring: true
